@@ -1,0 +1,5 @@
+package com.pagination.entities;
+
+public class Tutorial {
+
+}

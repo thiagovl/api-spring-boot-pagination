@@ -1,0 +1,18 @@
+# Configuracao do arquivo application-dev.properties
+
+#spring.jpa.properties.javax.persistence.schema-generation.create-source=metadata
+#spring.jpa.properties.javax.persistence.schema-generation.scripts.action=create
+#spring.jpa.properties.javax.persistence.schema-generation.scripts.create-target=create.sql
+#spring.jpa.properties.hibernate.hbm2ddl.delimiter=;
+
+spring.datasource.url=jdbc:postgresql://localhost:5432/testdb
+spring.datasource.username=postgres
+spring.datasource.password=1234567
+
+spring.jpa.properties.hibernate.jdbc.lob.non_contextual_creation=true
+spring.jpa.hibernate.ddl-auto=none
+
+# OBS.: As linhas comentadas sao para gerar o script do banco de dados,
+# ele criara na raiz do projeto um arquivo chamado created.sql que contem
+# o script para criar as tabelas do banco de dados
+

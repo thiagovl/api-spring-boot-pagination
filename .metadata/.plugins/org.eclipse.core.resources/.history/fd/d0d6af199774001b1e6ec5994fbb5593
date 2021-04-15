@@ -1,0 +1,5 @@
+package com.pagination.repository;
+
+public interface TutorialRepository {
+
+}

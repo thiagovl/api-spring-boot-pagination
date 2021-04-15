@@ -1,0 +1,13 @@
+INSERT INTO tutorial(id, title, description, published) VALUES(null, 'Java', 'Java Orientado a Objetos', true);
+INSERT INTO tutorial(id, title, description, published) VALUES(null, 'PHP', 'PHP do básico ao avançado', true);
+INSERT INTO tutorial(id, title, description, published) VALUES(null, '.Net', '.Net para certificação', true);
+INSERT INTO tutorial(id, title, description, published) VALUES(null, 'Linux', 'Linux - Open Source', true);
+INSERT INTO tutorial(id, title, description, published) VALUES(null, 'Oracle', 'Banco de Dados Oracle', true);
+INSERT INTO tutorial(id, title, description, published) VALUES(null, 'Postgres', 'Postgres para projetos', true);
+INSERT INTO tutorial(id, title, description, published) VALUES(null, 'Mysql', 'Mysql - Básico ao avançado', true);
+INSERT INTO tutorial(id, title, description, published) VALUES(null, 'Spring Boot', 'Criando API com Spring Boot', true);
+INSERT INTO tutorial(id, title, description, published) VALUES(null, 'ReactJS', 'ReactJS básico', true);
+INSERT INTO tutorial(id, title, description, published) VALUES(null, 'NextJS', 'NextJS - o futuro do Front-end', true);
+INSERT INTO tutorial(id, title, description, published) VALUES(null, 'AdonisJS', 'API com AdonisJS', true);
+INSERT INTO tutorial(id, title, description, published) VALUES(null, 'NodeJS', 'Criando API com AdonisJS', true);
+INSERT INTO tutorial(id, title, description, published) VALUES(null, 'HTML5 e CSS3', 'Web Designer', false);

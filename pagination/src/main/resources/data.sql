@@ -1,0 +1,17 @@
+INSERT INTO tutorial( title, description, published) VALUES( 'Java', 'Java Orientado a Objetos', false);
+INSERT INTO tutorial( title, description, published) VALUES( 'PHP', 'PHP do básico ao avançado', true);
+INSERT INTO tutorial( title, description, published) VALUES( '.Net', '.Net para certificação', true);
+INSERT INTO tutorial( title, description, published) VALUES( 'Linux', 'Linux - Open Source', true);
+INSERT INTO tutorial( title, description, published) VALUES( 'Oracle', 'Banco de Dados Oracle', true);
+INSERT INTO tutorial( title, description, published) VALUES( 'Postgres', 'Postgres para projetos', true);
+INSERT INTO tutorial( title, description, published) VALUES( 'Mysql', 'Mysqidl - Básico ao avançado', true);
+INSERT INTO tutorial( title, description, published) VALUES( 'Spring Boot', 'Criando API com Spring Boot', true);
+INSERT INTO tutorial( title, description, published) VALUES( 'ReactJS', 'ReactJS básico', true);
+INSERT INTO tutorial( title, description, published) VALUES( 'NextJS', 'NextJS - o futuro do Front-end', true);
+INSERT INTO tutorial( title, description, published) VALUES( 'AdonisJS', 'API com AdonisJS', true);
+INSERT INTO tutorial( title, description, published) VALUES( 'NodeJS', 'Criando API com AdonisJS', true);
+INSERT INTO tutorial( title, description, published) VALUES( 'HTML5 e CSS3', 'Web Designer', false);
+INSERT INTO tutorial( title, description, published) VALUES( 'ArmÁrio', 'Web Designer', true);
+INSERT INTO tutorial( title, description, published) VALUES( 'armário', 'Web Designer', true);
+INSERT INTO tutorial( title, description, published) VALUES( 'Armario', 'Web Designer', true);
+INSERT INTO tutorial( title, description, published) VALUES( 'armario', 'Web Designer', true);
